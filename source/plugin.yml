@@ -1,0 +1,6 @@
+name: CustomJoinLeave
+description: Custom Join & Leave Messgaes.
+version: 1.0.0
+
+main: syncinus.messages.Main
+api-version: 1.19
