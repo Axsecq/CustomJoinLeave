@@ -1,6 +1,0 @@
-name: CJLM
-description: Custom Join & Leave Messgaes.
-version: 1.0.0
-
-main: syncinus.cjlm.CJLM
-api-version: 1.19
