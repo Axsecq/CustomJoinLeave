@@ -1,4 +1,4 @@
-# CJLM-Plugin
+# CustomJoinLeave
 Custom Join & Leave Messages Plugin.
 
 ## General Information
